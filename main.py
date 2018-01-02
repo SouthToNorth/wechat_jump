@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @Time     : 2018/1/2 上午10:06
 # @Author   : Sunstrider
-# @File     : test.py
+# @File     : main.py
 #   god bless us
 
 # pycrypto
